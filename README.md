@@ -33,7 +33,7 @@ K-Means clustering with elbow methode
 
 - Low-Value Customers jumlahnya jauh lebih besar, tapi: Memiliki daya finansial lebih rendah
 
--  High-Value Customers lebih sedikit, tapi: Punya potensi profit dan risiko finansial lebih besar
+- High-Value Customers lebih sedikit, tapi: Punya potensi profit dan risiko finansial lebih besar
 
 ## Key Insights
 Berdasarkan hasil clustering, diperoleh dua segmen pelanggan dengan karakteristik yang berbeda. Meskipun rata-rata nilai transaksi antar segmen relatif serupa, terdapat perbedaan yang signifikan pada kapasitas finansial pelanggan. Segmen High-Value Customers memiliki batas kredit dan dana tersedia yang jauh lebih tinggi, meskipun jumlah pelanggannya lebih sedikit. Sebaliknya, segmen Low-Value Customers memiliki jumlah pelanggan yang lebih besar, namun dengan kapasitas finansial yang lebih rendah.

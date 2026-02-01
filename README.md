@@ -1,6 +1,7 @@
 ![customer be](image/customer-behaviour-segmentation.webp)
 
-# Customer Segmentastion with K-Means
+
+# Customer Segmentastion dengan metode K-Means Clustering
 
 ## Background
 Dalam industri jasa keuangan, pemahaman terhadap karakteristik dan perilaku pelanggan menjadi faktor penting dalam pengambilan keputusan bisnis, seperti pengelolaan risiko kredit, penentuan strategi pemasaran, dan peningkatan profitabilitas. Meskipun pelanggan dapat memiliki pola transaksi yang relatif serupa, kemampuan finansial mereka sering kali berbeda secara signifikan, seperti pada batas kredit, saldo berjalan, dan dana yang tersedia.
@@ -20,13 +21,14 @@ K-Means clustering with elbow methode
 
 ## Temuan Utama:
 
-![output](Output_analisis/Cluster Summary.png)
+![output](Output_analisis/Distribusi-customer.png)
+![output](image/Perbandingan-cluster.png)
+![output](Output_analisis/radarchart.png)
+![output](Output_analisis/Cluster-Summary.png)
 
 - Terdapat 2 segmen utama customer:
 1. High-Value Customers
 2. Low-Value Customers
-
-- Transaction Amount rata-rata hampir sama (~127)
 
 - Perbedaan signifikan ada di:
 1. Credit Limit

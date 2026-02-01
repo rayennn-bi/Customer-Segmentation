@@ -21,10 +21,10 @@ K-Means clustering with elbow methode
 
 ## Temuan Utama:
 
-![output](Output_analisis/Distribusi-customer.png)
-![output](image/Perbandingan-cluster.png)
-![output](Output_analisis/radarchart.png)
-![output](Output_analisis/Cluster-Summary.png)
+![output](Output_visualisasi/Distribusi-customer.png)
+![output](Output_visualisasi/Perbandingan-cluster.png)
+![output](Output_visualisasi/radarchart.png)
+![output](Output_visualisasi/Cluster-Summary.png)
 
 - Terdapat 2 segmen utama customer:
 1. High-Value Customers

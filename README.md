@@ -20,6 +20,8 @@ K-Means clustering with elbow methode
 
 ## Temuan Utama:
 
+![output](Output_analisis/Cluster Summary.png)
+
 - Terdapat 2 segmen utama customer:
 1. High-Value Customers
 2. Low-Value Customers

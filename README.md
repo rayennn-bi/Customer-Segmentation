@@ -15,9 +15,17 @@ Tujuan dari analisis ini adalah untuk melakukan segmentasi pelanggan menggunakan
 4. Menjadi dasar dalam penyusunan strategi bisnis, manajemen risiko, dan penargetan pelanggan yang lebih efektif
 
 ## Dataset Overview
+Data financial services
+
+Rows : 641914
+
+Column : 23
+
+full dataset available here :
+[https://drive.google.com/file/d/1r9P91AQU-SVI_LTyy8cEdkdCCNnPVJgh/view?usp=sharing]
 
 ## Methodology (Clustering Approach)
-K-Means clustering with elbow methode
+K-Means clustering dengan elbow methode
 
 ## Temuan Utama:
 

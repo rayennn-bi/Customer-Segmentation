@@ -3,7 +3,7 @@
 
 # Customer Segmentastion dengan metode K-Means Clustering
 
-## Background
+## Latar Belakang
 Dalam industri jasa keuangan, pemahaman terhadap karakteristik dan perilaku pelanggan menjadi faktor penting dalam pengambilan keputusan bisnis, seperti pengelolaan risiko kredit, penentuan strategi pemasaran, dan peningkatan profitabilitas. Meskipun pelanggan dapat memiliki pola transaksi yang relatif serupa, kemampuan finansial mereka sering kali berbeda secara signifikan, seperti pada batas kredit, saldo berjalan, dan dana yang tersedia.
 Tanpa segmentasi yang tepat, perusahaan berisiko menerapkan strategi yang bersifat umum dan kurang efektif untuk seluruh pelanggan. Oleh karena itu, diperlukan pendekatan berbasis data untuk mengelompokkan pelanggan ke dalam segmen yang memiliki karakteristik finansial yang serupa. Analisis clustering digunakan untuk mengidentifikasi pola tersembunyi dalam data pelanggan sehingga perusahaan dapat merancang strategi yang lebih terarah dan tepat sasaran.
 
@@ -49,6 +49,6 @@ Hasil segmentasi ini dapat dimanfaatkan untuk:
 3. Mengoptimalkan alokasi sumber daya pemasaran dan operasional
 4. Mendukung strategi bisnis yang lebih efisien dan berbasis data
 
-## Conclusion
+## Kesimpulan
 Berdasarkan hasil analisis clustering yang telah dilakukan, pelanggan berhasil dikelompokkan ke dalam dua segmen utama, yaitu High-Value Customers dan Low-Value Customers, berdasarkan karakteristik transaksi dan kondisi finansial. Hasil analisis menunjukkan bahwa meskipun rata-rata nilai transaksi antar segmen relatif serupa, terdapat perbedaan yang signifikan pada kapasitas finansial pelanggan, seperti batas kredit, saldo berjalan, dan dana yang tersedia.
 Segmen High-Value Customers memiliki potensi kontribusi bisnis yang lebih besar meskipun jumlahnya lebih sedikit, sementara segmen Low-Value Customers mendominasi jumlah pelanggan namun dengan kapasitas finansial yang lebih rendah. Temuan ini menegaskan pentingnya pendekatan segmentasi pelanggan berbasis data untuk mendukung pengambilan keputusan bisnis yang lebih tepat, efektif, dan terukur.

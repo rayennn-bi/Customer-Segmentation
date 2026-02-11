@@ -1,7 +1,8 @@
 ![customer be](image/customer-behaviour-segmentation.webp)
 
 
-# Customer Segmentastion dengan metode K-Means Clustering
+# Customer Behavioral–financial segmentation (segmentasi perilaku keuangan).
+Behavioral–Financial Segmentation adalah pendekatan segmentasi pelanggan yang mengklasifikasikan pelanggan berdasarkan perilaku transaksi dan kapasitas keuangan mereka. Proyek ini mensegmentasikan pelanggan menggunakan jumlah transaksi, saldo, batas kredit, dan uang yang tersedia untuk mengidentifikasi pelanggan bernilai tinggi dan bernilai rendah untuk pengambilan keputusan bisnis berbasis data.
 
 ## Latar Belakang
 Dalam industri jasa keuangan, pemahaman terhadap karakteristik dan perilaku pelanggan menjadi faktor penting dalam pengambilan keputusan bisnis, seperti pengelolaan risiko kredit, penentuan strategi pemasaran, dan peningkatan profitabilitas. Meskipun pelanggan dapat memiliki pola transaksi yang relatif serupa, kemampuan finansial mereka sering kali berbeda secara signifikan, seperti pada batas kredit, saldo berjalan, dan dana yang tersedia.
@@ -21,10 +22,11 @@ Rows : 641914
 
 Column : 23
 
-full dataset available here :
+full dataset :
 [https://drive.google.com/file/d/1r9P91AQU-SVI_LTyy8cEdkdCCNnPVJgh/view?usp=sharing]
 
 ## Methodology (Clustering Approach)
+
 K-Means clustering dengan elbow methode
 
 ## Temuan Utama:
@@ -43,9 +45,9 @@ K-Means clustering dengan elbow methode
 2. Current Balance
 3. Available Money
 
-- Low-Value Customers jumlahnya jauh lebih besar, tapi: Memiliki daya finansial lebih rendah
+- Low-Value Customers jumlahnya jauh lebih besar, tapi memiliki daya finansial lebih rendah
 
-- High-Value Customers lebih sedikit, tapi: Punya potensi profit dan risiko finansial lebih besar
+- High-Value Customers lebih sedikit, tapi punya potensi profit dan risiko finansial lebih besar
 
 ## Key Insights
 Berdasarkan hasil clustering, diperoleh dua segmen pelanggan dengan karakteristik yang berbeda. Meskipun rata-rata nilai transaksi antar segmen relatif serupa, terdapat perbedaan yang signifikan pada kapasitas finansial pelanggan. Segmen High-Value Customers memiliki batas kredit dan dana tersedia yang jauh lebih tinggi, meskipun jumlah pelanggannya lebih sedikit. Sebaliknya, segmen Low-Value Customers memiliki jumlah pelanggan yang lebih besar, namun dengan kapasitas finansial yang lebih rendah.

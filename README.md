@@ -18,7 +18,7 @@ Tujuan dari analisis ini adalah untuk melakukan segmentasi pelanggan menggunakan
 ## Dataset Overview
 Data financial services
 
-Rows : 641914
+Jumlah Rows : 641.914
 
 Column : 23
 
@@ -29,7 +29,7 @@ full dataset :
 
 K-Means clustering dengan elbow methode
 
-## Temuan Utama:
+## Hasil Clustering / Temuan Utama:
 
 ![output](Output_visualisasi/Distribusi-customer.png)
 ![output](Output_visualisasi/Perbandingan-cluster.png)
